@@ -77,8 +77,7 @@ evento de pago).
 ## 6. Si usted es testigo o es objeto de comportamiento inaceptable
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
-inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
-[hola@colombia-dev.org]
+inquietud, por favor comunícate con un organizador del meetup lo antes posible.
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -153,5 +152,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 ## 10. Licencia y atribución
 
 Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
+
+Adaptado del [Código de Conducta de colombia.dev](https://github.com/colombia-dev/codigo-de-conducta/blob/master/README.md)
 
 Adaptado del [Código de Conducta de Stumptown Syndicate](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
